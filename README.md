@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> We are no longer actively maintaining this repository. All active work by the Allen Institute for Cell Science is located under the **[AllenCell](https://github.com/AllenCell)** organization.
+
 # aics_pipeline_uploaders
 
 [![Build Status](https://github.com/BrianWhitneyAI/aics_pipeline_uploaders/workflows/Build%20Main/badge.svg)](https://github.com/BrianWhitneyAI/aics_pipeline_uploaders/actions)
